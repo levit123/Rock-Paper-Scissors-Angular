@@ -19,8 +19,15 @@
 #user-label {
 	position: absolute;
 	top: 5px;
+	left: -25px;
+}
+
+#comp-label {
+	position:  absolute;
+	top: 5px;
 	right: -25px;
 }
+
 
 .result {
 	font-size: 40px;
