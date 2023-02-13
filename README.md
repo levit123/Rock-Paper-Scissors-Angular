@@ -1,8 +1,8 @@
 # Rockpaperscissors
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0. Classic Rock-Paper-Scissors game made using Angular. Player chooses an option and computer will choose their own option, and keeps track of score. Uses CSS and custom images for the choice icons. Requires NPM, Node.js, and Angular to execute. Includes a local version of Angular within the project directory.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0. Classic Rock-Paper-Scissors game made using Angular. Player chooses an option and computer will choose their own option, and keeps track of score. Uses CSS and custom images for the choice icons. Requires NPM and Node.js to execute. Includes a local version of Angular within the project directory.
 
-## Running The Project With NPM, Node.js, and Angular Already Installed
+## Running The Project With NPM And Angular Already Installed
 
 Open a command prompt, navigate to inside the `rockpaperscissors` folder, and execute `ng serve` to run the project on a local dev server. Open a web browser and go to the URL `http://localhost:4200/` to test the project. The app will automatically reload if you change any of the source files.
 
